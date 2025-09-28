@@ -6,15 +6,16 @@
 
 
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
+This project provides an end-to-end analysis of Walmart sales data, focusing on extracting actionable business insights. Python is used for data preprocessing and transformations, while SQL helps perform advanced queries to address business problems. The work demonstrates skills in data manipulation, SQL analysis, and building structured data pipelines.
 
 ---
 
 ## Project Steps
 
 ### 1. Set Up the Environment
-   - **Tools Used**: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
-   - **Goal**: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
+   - **Tools Used**:Visual Studio Code (VS Code), Python, MySQL, PostgreSQL
+   - **Goal**: Created a structured workspace in VS Code with organized folders for smooth development.
+   - Ensured a clean setup for handling data and scripts.
 
 ### 2. Set Up Kaggle API
    - **API Setup**: Obtain your Kaggle API token from [Kaggle](https://www.kaggle.com/) by navigating to your profile settings and downloading the JSON file.
